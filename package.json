@@ -1,0 +1,22 @@
+{
+  "name": "testsonia",
+  "version": "1.0.0",
+  "description": "Test Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPETITEAU/TestSonia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPETITEAU/TestSonia/issues"
+  },
+  "homepage": "https://github.com/SPETITEAU/TestSonia#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
